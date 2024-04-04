@@ -1,0 +1,1735 @@
+fileFormatVersion: 2
+guid: e23b5fb0a445823439c5f3f196bb4a0a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11420cce8b692bf4181f1767d9a28147
+      internalID: 1235734717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9047d12bdce354ca6fc6b03b472e20
+      internalID: 76480785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf39f37dc2ac1408ea370cb486cd49
+      internalID: -228060373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597fff1d064775f45a3d9bb6c21bb9e1
+      internalID: -1863487340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f99a90ce71979e498af70c7314deacd
+      internalID: -671436184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57040ef3b28567441ab57017d8a26972
+      internalID: -456771430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8165c3cd74b44fa4bad18459d8af7927
+      internalID: -1482768395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e387d9c137064592682c508a6821e
+      internalID: 1141637631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0548e93ec42db4ca91fd9a99062259
+      internalID: -1502598095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ce8ea9ba8649a4fb8903d73581cad9
+      internalID: 495089666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006cd29e5765b64b9b87964b6576c83
+      internalID: -1894896603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe67ddb7abe03744845cd9e1daee6f6
+      internalID: -847499306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e054a4d949e5ffc49b460303c53d07ab
+      internalID: 616730619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a57af47c683fc4ab8551707b55cc17
+      internalID: -222617043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58465acc2da88754187ab6ec8c694527
+      internalID: -1801042890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46df94226d51c04bab04e01e6559a15
+      internalID: 1604168929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0b0525c09bbf746907d051cf6c60f4
+      internalID: -463549368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063122652c69f694c9506751197e0a07
+      internalID: 2106336639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c08034d4974ec4fb1f45d4b4501ed9
+      internalID: 2016360184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4076df7448e9c248a2157efbf360b41
+      internalID: 1665869525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcc4444d149d7e43a7dee39d7d9f023
+      internalID: 1768599440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d01a6ddb5ca4546847ce8192c305f3
+      internalID: 664160983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbda58ec1ca364d85a85150a33799a
+      internalID: 1375474437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 192
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cd7cc0b73d77b4ca80ff2480e69cd1
+      internalID: 286184475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8680862eada0da841bf92760b7592317
+      internalID: 519365860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9d9da2a0b9c874d8daa8ec0df24121
+      internalID: 1449985836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f583063a998a4f89cf1986c1d9e7c
+      internalID: 1604380061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b317dd164c7cba54d9c85acfe37fe4a1
+      internalID: 873060548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb91a81a6bd79c48a8df6c647ded570
+      internalID: -1964860310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec2f98ef1be62048b64849512668bfc
+      internalID: 373897579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb1b7d228340e49a94ee1ccd834593
+      internalID: -322980463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef1f2bfb6655a948b6c2a37e70c39d7
+      internalID: -1443496297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd56e6343725434f98c2ae79de192f0
+      internalID: -1097124120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25214c56a382f46b37dbd711d67219
+      internalID: 284878530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804d61d7e680734498f343e0eb8a991
+      internalID: -1996446434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69577911b4e348a4a8d18cbd195a6347
+      internalID: -1155650034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570433e0ea7e01b489cbd9dc6cdfabb2
+      internalID: 1623136905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad070e399540c4dae7cd35841307db
+      internalID: -25397606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e750eb47e86dfc458d82eb7fc5f40e6
+      internalID: -1647992475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00e11b7f3af32428e46dcac86ceac9
+      internalID: 662214417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f46610d114c0d4db0b0f73151fc6bd
+      internalID: 1378774754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d4338013ad4b24fa3fb6995bd02a3d
+      internalID: -161223446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f711bb101ec34097d74d3a225d657
+      internalID: -1327283205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a680cf71c45bc41b21e0fb365a67bb
+      internalID: 1417403890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d1fa2a795ef74d8ad6c5b53000cee
+      internalID: 785593819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbce0734d79dc149af468f9ec8f30cc
+      internalID: -2043368910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171de68ea6e3e704f8e7735bf8ad982d
+      internalID: -1672238181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa27bca8f173844bb39d13e86b96bab
+      internalID: -1366672270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca1418bc29a3b43856d51ac55ba06c
+      internalID: -1366866995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332bd43f564f364ebf0edae8b67d88c
+      internalID: -556931996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1078de9debefa7a4f96e820371a5d333
+      internalID: -729894913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62ede3d447a61488abe023282308f7
+      internalID: -972632547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487be8a96c256344a28204256fb57fd
+      internalID: 2097692721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eaab9f3f80a8040b2ffe4b184227a1
+      internalID: 2078460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e025ed1b4349e243a9a64f171f30a8a
+      internalID: -865858675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f7501deffe944a9a76327bdd47777
+      internalID: -1918676299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d3bd4a9e9d8e54db09e9ec288ed2a5
+      internalID: 1243330200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd208f2fb9334ba4585eebf2155be5ab
+      internalID: -1500215385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c766aa1a8efdc54cbec9e602b39786e
+      internalID: 1847115249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_145
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57ab060a5ae08a4e82b39302d8d1e0b
+      internalID: -2134208495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0f840b3cfc7343971f4ae4081ecd9
+      internalID: -1044170193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383eb6ea97d2c634984c329bad307c53
+      internalID: 1016936793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9feded328bb74e95c9b3bfd866ef4
+      internalID: -1029256721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4c920dc94a6f741b8fb684318dac8f
+      internalID: -1197985078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_158
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a3e02be1424d4f8d4e621c8f77f9b
+      internalID: -327702046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e2b6c39bedec408aaf2972274df0e
+      internalID: 1999984111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_160
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a129403782d35945816657f4b15ecbc
+      internalID: -2125849087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeoZeroTilesAndBuildings_01_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2f13a02916dc4985f0d05feab540b
+      internalID: 1063792688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NeoZeroTilesAndBuildings_01_0: 1235734717
+      NeoZeroTilesAndBuildings_01_1: 76480785
+      NeoZeroTilesAndBuildings_01_10: 565157035
+      NeoZeroTilesAndBuildings_01_100: -870675867
+      NeoZeroTilesAndBuildings_01_101: -777369333
+      NeoZeroTilesAndBuildings_01_102: -2090788295
+      NeoZeroTilesAndBuildings_01_103: -1672238181
+      NeoZeroTilesAndBuildings_01_104: -1366672270
+      NeoZeroTilesAndBuildings_01_105: -778793629
+      NeoZeroTilesAndBuildings_01_106: 1092763791
+      NeoZeroTilesAndBuildings_01_107: -1183943001
+      NeoZeroTilesAndBuildings_01_108: 571864906
+      NeoZeroTilesAndBuildings_01_109: -1366866995
+      NeoZeroTilesAndBuildings_01_11: 294232774
+      NeoZeroTilesAndBuildings_01_110: -556931996
+      NeoZeroTilesAndBuildings_01_111: -291387385
+      NeoZeroTilesAndBuildings_01_112: -565300743
+      NeoZeroTilesAndBuildings_01_113: -97695349
+      NeoZeroTilesAndBuildings_01_114: 1545471321
+      NeoZeroTilesAndBuildings_01_115: -729894913
+      NeoZeroTilesAndBuildings_01_116: -972632547
+      NeoZeroTilesAndBuildings_01_117: -285208505
+      NeoZeroTilesAndBuildings_01_118: -505252415
+      NeoZeroTilesAndBuildings_01_119: -1055922702
+      NeoZeroTilesAndBuildings_01_12: -1863487340
+      NeoZeroTilesAndBuildings_01_120: -1893747221
+      NeoZeroTilesAndBuildings_01_121: -1835569134
+      NeoZeroTilesAndBuildings_01_122: 1152926358
+      NeoZeroTilesAndBuildings_01_123: 2137346010
+      NeoZeroTilesAndBuildings_01_124: 780441017
+      NeoZeroTilesAndBuildings_01_125: 794702539
+      NeoZeroTilesAndBuildings_01_126: 1037471378
+      NeoZeroTilesAndBuildings_01_127: 737769530
+      NeoZeroTilesAndBuildings_01_128: 2139506913
+      NeoZeroTilesAndBuildings_01_129: 356624502
+      NeoZeroTilesAndBuildings_01_13: -671436184
+      NeoZeroTilesAndBuildings_01_130: -1128011156
+      NeoZeroTilesAndBuildings_01_131: 66558621
+      NeoZeroTilesAndBuildings_01_132: 759569967
+      NeoZeroTilesAndBuildings_01_133: -1154662688
+      NeoZeroTilesAndBuildings_01_134: 1900737267
+      NeoZeroTilesAndBuildings_01_135: -1073153476
+      NeoZeroTilesAndBuildings_01_136: 2097692721
+      NeoZeroTilesAndBuildings_01_137: 279361990
+      NeoZeroTilesAndBuildings_01_138: 885760341
+      NeoZeroTilesAndBuildings_01_139: 2078460
+      NeoZeroTilesAndBuildings_01_14: -456771430
+      NeoZeroTilesAndBuildings_01_140: -865858675
+      NeoZeroTilesAndBuildings_01_141: -1918676299
+      NeoZeroTilesAndBuildings_01_142: 1243330200
+      NeoZeroTilesAndBuildings_01_143: -1500215385
+      NeoZeroTilesAndBuildings_01_144: 1847115249
+      NeoZeroTilesAndBuildings_01_145: -2134208495
+      NeoZeroTilesAndBuildings_01_146: 807031913
+      NeoZeroTilesAndBuildings_01_147: -806100061
+      NeoZeroTilesAndBuildings_01_148: -1044170193
+      NeoZeroTilesAndBuildings_01_149: -311704382
+      NeoZeroTilesAndBuildings_01_15: -1482768395
+      NeoZeroTilesAndBuildings_01_150: 153094231
+      NeoZeroTilesAndBuildings_01_151: 8851232
+      NeoZeroTilesAndBuildings_01_152: -1146799064
+      NeoZeroTilesAndBuildings_01_153: -391785392
+      NeoZeroTilesAndBuildings_01_154: -657719180
+      NeoZeroTilesAndBuildings_01_155: 1016936793
+      NeoZeroTilesAndBuildings_01_156: -1029256721
+      NeoZeroTilesAndBuildings_01_157: -1197985078
+      NeoZeroTilesAndBuildings_01_158: -327702046
+      NeoZeroTilesAndBuildings_01_159: 1999984111
+      NeoZeroTilesAndBuildings_01_16: 1141637631
+      NeoZeroTilesAndBuildings_01_160: -2125849087
+      NeoZeroTilesAndBuildings_01_161: 1145573273
+      NeoZeroTilesAndBuildings_01_162: 589916827
+      NeoZeroTilesAndBuildings_01_163: 242749750
+      NeoZeroTilesAndBuildings_01_164: 1063792688
+      NeoZeroTilesAndBuildings_01_165: -345472637
+      NeoZeroTilesAndBuildings_01_166: -1759627776
+      NeoZeroTilesAndBuildings_01_17: -1502598095
+      NeoZeroTilesAndBuildings_01_18: 495089666
+      NeoZeroTilesAndBuildings_01_19: -1894896603
+      NeoZeroTilesAndBuildings_01_2: -228060373
+      NeoZeroTilesAndBuildings_01_20: -847499306
+      NeoZeroTilesAndBuildings_01_21: 616730619
+      NeoZeroTilesAndBuildings_01_22: -222617043
+      NeoZeroTilesAndBuildings_01_23: -1801042890
+      NeoZeroTilesAndBuildings_01_24: 1604168929
+      NeoZeroTilesAndBuildings_01_25: -463549368
+      NeoZeroTilesAndBuildings_01_26: 2106336639
+      NeoZeroTilesAndBuildings_01_27: 2016360184
+      NeoZeroTilesAndBuildings_01_28: 1665869525
+      NeoZeroTilesAndBuildings_01_29: 1768599440
+      NeoZeroTilesAndBuildings_01_3: -1941607706
+      NeoZeroTilesAndBuildings_01_30: 664160983
+      NeoZeroTilesAndBuildings_01_31: 1375474437
+      NeoZeroTilesAndBuildings_01_32: 1217371860
+      NeoZeroTilesAndBuildings_01_33: 912174510
+      NeoZeroTilesAndBuildings_01_34: -1510194964
+      NeoZeroTilesAndBuildings_01_35: 286184475
+      NeoZeroTilesAndBuildings_01_36: 519365860
+      NeoZeroTilesAndBuildings_01_37: -1445344608
+      NeoZeroTilesAndBuildings_01_38: 1071327447
+      NeoZeroTilesAndBuildings_01_39: 935956530
+      NeoZeroTilesAndBuildings_01_4: -409225454
+      NeoZeroTilesAndBuildings_01_40: 655162699
+      NeoZeroTilesAndBuildings_01_41: -845968695
+      NeoZeroTilesAndBuildings_01_42: 480064157
+      NeoZeroTilesAndBuildings_01_43: 1449985836
+      NeoZeroTilesAndBuildings_01_44: 1604380061
+      NeoZeroTilesAndBuildings_01_45: 873060548
+      NeoZeroTilesAndBuildings_01_46: -1964860310
+      NeoZeroTilesAndBuildings_01_47: 373897579
+      NeoZeroTilesAndBuildings_01_48: -322980463
+      NeoZeroTilesAndBuildings_01_49: -1443496297
+      NeoZeroTilesAndBuildings_01_5: -1056499100
+      NeoZeroTilesAndBuildings_01_50: -1786402875
+      NeoZeroTilesAndBuildings_01_51: -855318787
+      NeoZeroTilesAndBuildings_01_52: -1097124120
+      NeoZeroTilesAndBuildings_01_53: 284878530
+      NeoZeroTilesAndBuildings_01_54: -1996446434
+      NeoZeroTilesAndBuildings_01_55: -1155650034
+      NeoZeroTilesAndBuildings_01_56: 1623136905
+      NeoZeroTilesAndBuildings_01_57: -25397606
+      NeoZeroTilesAndBuildings_01_58: -1647992475
+      NeoZeroTilesAndBuildings_01_59: 662214417
+      NeoZeroTilesAndBuildings_01_6: -980658591
+      NeoZeroTilesAndBuildings_01_60: 622238411
+      NeoZeroTilesAndBuildings_01_61: -195862936
+      NeoZeroTilesAndBuildings_01_62: -1698516405
+      NeoZeroTilesAndBuildings_01_63: -1187226481
+      NeoZeroTilesAndBuildings_01_64: 632172595
+      NeoZeroTilesAndBuildings_01_65: 1853788551
+      NeoZeroTilesAndBuildings_01_66: 1378774754
+      NeoZeroTilesAndBuildings_01_67: 103595866
+      NeoZeroTilesAndBuildings_01_68: -161223446
+      NeoZeroTilesAndBuildings_01_69: 106982503
+      NeoZeroTilesAndBuildings_01_7: 1271300893
+      NeoZeroTilesAndBuildings_01_70: 544250584
+      NeoZeroTilesAndBuildings_01_71: -1327283205
+      NeoZeroTilesAndBuildings_01_72: 1812588476
+      NeoZeroTilesAndBuildings_01_73: 1614188001
+      NeoZeroTilesAndBuildings_01_74: -193014954
+      NeoZeroTilesAndBuildings_01_75: 906453462
+      NeoZeroTilesAndBuildings_01_76: -878619535
+      NeoZeroTilesAndBuildings_01_77: 970063385
+      NeoZeroTilesAndBuildings_01_78: 1279443004
+      NeoZeroTilesAndBuildings_01_79: 1492398825
+      NeoZeroTilesAndBuildings_01_8: 909814938
+      NeoZeroTilesAndBuildings_01_80: -1446629779
+      NeoZeroTilesAndBuildings_01_81: 298465582
+      NeoZeroTilesAndBuildings_01_82: 1786365861
+      NeoZeroTilesAndBuildings_01_83: -133269996
+      NeoZeroTilesAndBuildings_01_84: -1919921804
+      NeoZeroTilesAndBuildings_01_85: -1041315189
+      NeoZeroTilesAndBuildings_01_86: 73848728
+      NeoZeroTilesAndBuildings_01_87: 493266076
+      NeoZeroTilesAndBuildings_01_88: 820060310
+      NeoZeroTilesAndBuildings_01_89: 1148243823
+      NeoZeroTilesAndBuildings_01_9: -247509302
+      NeoZeroTilesAndBuildings_01_90: -880134734
+      NeoZeroTilesAndBuildings_01_91: 366651420
+      NeoZeroTilesAndBuildings_01_92: 1417403890
+      NeoZeroTilesAndBuildings_01_93: -1030032556
+      NeoZeroTilesAndBuildings_01_94: 1531833261
+      NeoZeroTilesAndBuildings_01_95: 785593819
+      NeoZeroTilesAndBuildings_01_96: -1580300452
+      NeoZeroTilesAndBuildings_01_97: -525214825
+      NeoZeroTilesAndBuildings_01_98: -2043368910
+      NeoZeroTilesAndBuildings_01_99: 1329310325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
