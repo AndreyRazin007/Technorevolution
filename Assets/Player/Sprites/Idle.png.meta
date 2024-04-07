@@ -128,7 +128,7 @@ TextureImporter:
         serializedVersion: 2
         x: 6
         y: 0
-        width: 21
+        width: 19
         height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -149,7 +149,7 @@ TextureImporter:
         serializedVersion: 2
         x: 55
         y: 0
-        width: 20
+        width: 18
         height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -165,96 +165,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_2
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 0
-        width: 21
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0310897cbe227e45b6addc41dff211d
-      internalID: -1531369946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_3
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 31
-        width: 5
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0cd64f2c8190444999b959ccad6c346
-      internalID: 800118851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_4
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 0
-        width: 22
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22f460a1add6b1b4ea6f80765d583a5e
-      internalID: 1579814179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_5
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f09ac3f63ea500144b5ac02247699397
-      internalID: -1947006224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Idle_6
       rect:
         serializedVersion: 2
         x: 245
         y: 0
-        width: 22
+        width: 19
         height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
