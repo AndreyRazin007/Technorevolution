@@ -6,4 +6,13 @@ public class DialogueText : ScriptableObject {
 
     [TextArea(5, 10)]
     [SerializeField] private string[] _paragraphs;
+
+    public string SpeakerName {
+        get { return _speakerName; }
+        set { _speakerName = value; }
+    }
+    public string[] Paragraphs {
+        get { return _paragraphs; }
+        set { _paragraphs = value; }
+    }
 }

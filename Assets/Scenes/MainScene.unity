@@ -42340,7 +42340,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &704545917
 RectTransform:
   m_ObjectHideFlags: 0
@@ -43658,7 +43658,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1289883962
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44537,13 +44537,14 @@ GameObject:
   - component: {fileID: 1811930361}
   - component: {fileID: 1811930363}
   - component: {fileID: 1811930362}
+  - component: {fileID: 1811930364}
   m_Layer: 5
   m_Name: DialogueBoxImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1811930361
 RectTransform:
   m_ObjectHideFlags: 0
@@ -44562,7 +44563,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -15}
+  m_AnchoredPosition: {x: 0, y: -132.7}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1811930362
@@ -44603,6 +44604,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1811930360}
   m_CullTransparentMesh: 1
+--- !u!114 &1811930364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1811930360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8deb7fc346dcb334ea8371be6d4f2a44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _npcNameText: {fileID: 581835102}
+  _npcDialogueText: {fileID: 1960689884}
+  _typeSpeed: 5
 --- !u!1 &1839296093
 GameObject:
   m_ObjectHideFlags: 0
@@ -45251,7 +45267,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _interactSprite: {fileID: 1382569958}
-  _dialogueText: {fileID: 0}
+  _dialogueText: {fileID: 11400000, guid: 4e33d797d60a9974c9c379b329492039, type: 2}
+  _dialogueController: {fileID: 1811930364}
 --- !u!1 &2096561743
 GameObject:
   m_ObjectHideFlags: 0
