@@ -10,11 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 2845491642923207039}
   - component: {fileID: 5834568604079025365}
-  - component: {fileID: 5280921467217788543}
   - component: {fileID: 6396786688111483920}
   - component: {fileID: 6276290462280875907}
   - component: {fileID: 3788693476169497988}
   - component: {fileID: 1247174055507010670}
+  - component: {fileID: 5280921467217788543}
+  - component: {fileID: 8475187963009988447}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -90,27 +91,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &5280921467217788543
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 409228588462508771}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8805e351ac471e74f8b0385258ea44b3, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!50 &6396786688111483920
 Rigidbody2D:
   serializedVersion: 4
@@ -192,6 +172,10 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 1479ed05-3a68-4fb2-a934-8bf1bf3f9b95
     m_ActionName: Movement/Move[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 8e919f7d-8989-4875-a892-014aa8f6fd49
+    m_ActionName: Combat/Attack[/Mouse/leftButton]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Movement
@@ -242,6 +226,40 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.875, y: 1.4583334}
   m_EdgeRadius: 0
+--- !u!95 &5280921467217788543
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409228588462508771}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8805e351ac471e74f8b0385258ea44b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8475187963009988447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409228588462508771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0da0a688a661da145b64837e7513a94a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _animator: {fileID: 5280921467217788543}
 --- !u!1 &5938690800753429571
 GameObject:
   m_ObjectHideFlags: 0
