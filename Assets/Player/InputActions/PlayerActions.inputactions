@@ -79,7 +79,7 @@
             "actions": [
                 {
                     "name": "Attack",
-                    "type": "Button",
+                    "type": "PassThrough",
                     "id": "8e919f7d-8989-4875-a892-014aa8f6fd49",
                     "expectedControlType": "Button",
                     "processors": "",
